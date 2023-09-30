@@ -1,10 +1,21 @@
 # Hi there , I'm Shashank!👋
+A programmer born Bihar and doing my undergrads from Uttarakhand, India. I'm final year student Final year student pursuing Bachelor’s in Artificial Intelligence and Data Science from Graphic Era Universtiy. I try to grab any opportunity I can to develop myself and enhance my abilities. I love to learn about new technologies and and have gained experience through coursework and projects in a variety of programming lanaguages, including C++ , Java ,Python , AWS solution architect , TensorFlow Certifed Developer and Open Source Contributor
 
-<div align="center">
-  <a href="https://github.com/shashank1623">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashank1623&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank1623&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank1623&label=Profile%20views&color=0e75b6&style=flat" alt="shashank1623" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank1623" alt="shashank1623" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank1623&show_icons=true&locale=en&layout=compact" alt="shashank1623" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank1623&show_icons=true&locale=en" alt="shashank1623" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank1623&" alt="shashank1623" /></p>
 
 <div style="display: inline_block"><br>
   <h3 align="left">Languages and Tools:</h3>
