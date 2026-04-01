@@ -1,6 +1,6 @@
 # Hi there , I'm Shashank!👋
 
-I am a Full-stack developer with two year of experience building scalable and robust applications in domains such as artificial intelligence and Web Applications. I completed my Artificial Intelligence and Data Science undergraduate studies at Graphic Era University. My areas of specialization include Full-stack development, artificial intelligence, and DevOps for building and deploying applications that can handle high amounts of traffic. My tech stack includes MERN and PERN stacks, AI Saas, CI/CD, Linux, WebSockets, and socket.io.
+I am a Full-stack developer with two year of experience building scalable and robust applications in domains such as artificial intelligence and Web Applications. I completed my Artificial Intelligence and Data Science undergraduate studies at Graphic Era University. My areas of specialization include Full-stack development, artificial intelligence, and DevOps for building and deploying applications that can handle high amounts of traffic. My tech stack includes MERN and PERN stacks, AI  Saas, CI/CD, Linux, WebSockets, and socket.io.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank1623&label=Profile%20views&color=0e75b6&style=flat" alt="shashank1623" /> </p>
 
